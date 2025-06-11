@@ -350,7 +350,7 @@ function NecesidadesControlContent() {
 		},
 
 				{ 
-			id: 19, 
+			id: 20, 
 			text: "Liderazgo y Administración",
 			title: "LIDERAZGO Y ADMINISTRACIÓN",
 			options: [
